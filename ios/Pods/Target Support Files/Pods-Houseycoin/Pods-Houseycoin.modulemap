@@ -1,0 +1,6 @@
+module Pods_Houseycoin {
+  umbrella header "Pods-Houseycoin-umbrella.h"
+
+  export *
+  module * { export * }
+}
